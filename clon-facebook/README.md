@@ -1,6 +1,11 @@
-#Facebook clon App - React JS 
+## Facebook clon App - React JS 
 
 link: https://alejandrocastellanos.github.io/clon-facebook/
+
+# Images
+
+![Form](main.png "Main")
+![Form](mobile.png "Mobile")
 
 # Getting Started with Create React App
 
